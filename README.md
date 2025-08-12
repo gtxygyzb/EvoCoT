@@ -97,7 +97,15 @@ This project reuses code from the following repositories:
 # 📜 Citation
 
 ```
-
+@misc{liu2025evocotovercomingexplorationbottleneck,
+      title={EvoCoT: Overcoming the Exploration Bottleneck in Reinforcement Learning}, 
+      author={Huanyu Liu and Jia Li and Chang Yu and Taozhi Chen and Yihong Dong and Lecheng Wang and Hu XiaoLong and Ge Li},
+      year={2025},
+      eprint={2508.07809},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.07809}, 
+}
 ```
 
 # 📄 License
