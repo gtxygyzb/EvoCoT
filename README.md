@@ -1,6 +1,7 @@
 # **EvoCoT**: Overcoming the Exploration Bottleneck in Reinforcement Learning
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16368-b31b1b.svg)](https://arxiv.org/abs/2508.07809)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-gtxygyzb/EvoCoT--R1--Qwen--1.5B-yellow.svg)](https://huggingface.co/gtxygyzb/EvoCoT-R1-Qwen-1.5B)
 
 **EvoCoT** is a self-**Evo**lving curriculum learning framework for LLM reasoning, built on **two-stage Chain-of-Thought (CoT) optimization**.
 
@@ -8,6 +9,10 @@
 - **Stage 2:** EvoCoT performs curriculum learning by progressively removing thinking steps to improve reasoning efficiency while constraining the exploration space.
 
 This framework enables LLMs to enhance their reasoning capability with a controlled and self-improving workflow.
+
+# Models
+- **Hugging Face:** [EvoCoT-R1-Qwen-1.5B](https://huggingface.co/gtxygyzb/EvoCoT-R1-Qwen-1.5B)
+
 
 # 🧱 Installation
 
