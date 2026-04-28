@@ -3,6 +3,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2508.07809-b31b1b.svg)](https://arxiv.org/abs/2508.07809)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-gtxygyzb/EvoCoT--R1--Qwen--1.5B-yellow.svg)](https://huggingface.co/gtxygyzb/EvoCoT-R1-Qwen-1.5B)
 
+🏆🏆 Our paper has been accepted at ACL 2026. 🏆🏆
+
 **EvoCoT** is a self-**Evo**lving curriculum learning framework for LLM reasoning, built on **two-stage Chain-of-Thought (CoT) optimization**.
 
 - **Stage 1:** The model generates its own CoT explanations from problems and final answers, which are filtered and verified to form step-by-step reasoning trajectories.  
